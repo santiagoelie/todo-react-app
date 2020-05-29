@@ -136,7 +136,7 @@ export default function MainPage() {
         </div>
         <Divider />
         <List>
-          <ListItem button component="a" href="https://github.com/mheerspink75/reactapp" target="blank">
+          <ListItem button component="a" href="https://github.com/santiagoelie" target="blank">
             <ListItemIcon>
               <CloudDownloadOutlinedIcon />
             </ListItemIcon>
