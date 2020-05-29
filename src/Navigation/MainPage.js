@@ -21,7 +21,7 @@ import MailIcon from '@material-ui/icons/Mail';
 import logo from '../logo.svg';
 
 import TodoApp from '../TodoApp/TodoApp';
-import FormDialog from "../Contactform/FormDialog";
+import FormDialog from "../ContactForm/FormDialog";
 import '../styles.css';
 
 
