@@ -22,7 +22,7 @@ import logo from '../logo.svg';
 
 import TodoApp from '../TodoApp/TodoApp';
 import FormDialog from "../ContactForm/FormDialog";
-import '../app.css';
+import '../App.css';
 
 
 const drawerWidth = 320;

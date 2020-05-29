@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import * as serviceWorker from './serviceWorker';
 import MainPage from './Navigation/MainPage';
 
-import "./styles.css";
+import "./App.css";
 
 function App() {
     return (
