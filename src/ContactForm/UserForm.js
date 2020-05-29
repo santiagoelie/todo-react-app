@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import FormContactInfo from "./FormConatctInfo";
+import FormContactInfo from "./FormContactInfo";
 import FormUserComments from "./FormUserComments";
 import Confirm from "./Confirm";
 import Success from "./Success";
