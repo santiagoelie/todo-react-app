@@ -1,68 +1,30 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# ToDoApp using ReactJS
+## Project 3: WebApp task management: ToDoApp
+______________________________________________
+#### User Stories:
+###### 1. "As a Web and Mobile developer. I want a light weight web app task management application that is available on both platforms as well as cross compatible on mobile devices"
 
-## Available Scripts
+###### 2. "As studying web development. I want a solution with a simple interface that can add, remove and update the completed status of TodoApp list items"
 
-In the project directory, you can run:
+____________________________________________
 
-### `npm start`
+#### Wireframes:
+##### 1. Desktop View:
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+##### 2. Mobile View:
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
 
-### `npm test`
+____________________________________________
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+#### Project URL: https://santiagoelie.github.io/todo-react-app/
 
-### `npm run build`
+____________________________________________
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+#### Name: Eliezer Santiago
+#### Overview/Description of Project: TodoApp management. The main purpose of this project is to create a todo application.
+#### Details:
+#### Technologies used: HTML, CSS/SASS, JavaScript/jQuery
+#### Ideas for future improvement:
+###### 1. Server-side form validation was not required in this project. In the future I would like to work on further customization to the front-end and server-side validation.
+###### 2. Local storage was not required in this project. I would also like to integrate local storage.
+###### 3. In the future I would like to add more functionality to the project by integrating tables with search, pagination and sorting functionality.
