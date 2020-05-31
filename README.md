@@ -10,9 +10,9 @@ ____________________________________________
 
 #### Wireframes:
 ##### 1. Desktop View:
-
+![](src/images/TodoApp-Desktop-View.png)
 ##### 2. Mobile View:
-
+![](src/images/TodoApp-Mobile-View.png)
 
 ____________________________________________
 
